@@ -7,3 +7,10 @@ Este proyecto servira para hostear la aplicacion de la cooperativa de Alterna Ac
 React
 TypeScript
 Go
+
+## Colaboradores
+
+Gabriel Saint-Hilaire
+Andres Pineda
+Manuel Gutierrez
+Hakime Joseph
