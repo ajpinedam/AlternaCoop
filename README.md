@@ -16,3 +16,5 @@ Manuel Gutierrez
 Hakime Joseph
 Kelvis Perez
 Dylan Minaya
+Jeison Sena
+Nelson Deschamps
