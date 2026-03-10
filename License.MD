@@ -1,1 +1,1 @@
-# Este es el archivo de Licencias del proyecto
+# Este es el archivo de Licencias del proyecto 2026
