@@ -14,3 +14,4 @@ Gabriel Saint-Hilaire
 Andres Pineda
 Manuel Gutierrez
 Hakime Joseph
+Kelvis Perez
