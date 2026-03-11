@@ -94,3 +94,4 @@
 
     No todas las aplicaciones usan exactamente la misma versión de Markdown; estas variantes se llaman “flavors” (sabores). Por eso, es importante revisar la documentación de cada aplicación para saber qué funciones soporta. Se recomienda usar una aplicación con buen soporte de Markdown para mantener la compatibilidad entre diferentes herramientas.
 
+#### Muy importante aprenderlo
